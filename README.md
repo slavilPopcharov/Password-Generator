@@ -1,1 +1,3 @@
-<image src="screenshot - 1.png">
+This app generates password with length and characters of your choise. Feel free to heck how it works <a href="https://slavilpopcharov.github.io/Password-Generator/">here:</a>
+
+<image src="screenshot - 1.png" href"https://slavilpopcharov.github.io/Password-Generator/">
